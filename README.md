@@ -1,32 +1,33 @@
-hika–Korepi Bypass – Advanced High-Kernel Hoyoprotect Bypass
+Shika–Korepi Bypass – High-Level Kernel Hoyoprotect Bypass
 
-The Shika–Korepi Bypass is an advanced, high-kernel-level bypass solution specifically engineered to defeat Hoyoprotect security with unmatched stability and safety.
-Operating at the highest kernel layer, it provides direct access to critical system functions while remaining completely undetected by standard security mechanisms.
+Shika–Korepi Bypass adalah solusi bypass tingkat lanjut yang dirancang khusus untuk melewati perlindungan Hoyoprotect di tingkat kernel dengan stabilitas dan keamanan yang telah teruji.
+Dengan arsitektur yang beroperasi pada high kernel level, bypass ini memberikan perlindungan maksimum terhadap deteksi, sekaligus menjaga performa sistem tetap optimal.
 
-Key Features:
+Fitur Utama:
 
-High-Kernel Execution – Runs at the highest kernel privilege level, bypassing detection with maximum efficiency.
+Kernel-Level Execution – Bypass berjalan di lapisan kernel tertinggi, memberikan akses langsung pada fungsi inti sistem tanpa terdeteksi oleh mekanisme keamanan biasa.
 
-Full Hoyoprotect Evasion – Capable of bypassing all Hoyoprotect modules, including the latest patches and updates.
+Full Hoyoprotect Evasion – Mampu mem-bypass semua modul Hoyoprotect terbaru, termasuk patch-patch pembaruan terkini.
 
-Multi-Region Safe – Fully tested and proven safe on all servers: ASIA, AMERICA, EUROPE, and TWHK.
+Multi-Region Safe – Telah diuji aman pada semua server: ASIA, AMERICA, EUROPE, dan TWHK.
 
-High Stability – Months of continuous testing without crashes, errors, or compatibility issues.
+High Stability – Bypass diuji berbulan-bulan tanpa crash atau konflik dengan game maupun sistem.
 
-Ongoing Support & Updates – Regular maintenance and updates to stay ahead of Hoyoprotect security improvements.
+Continuous Support & Update – Dukungan pembaruan rutin untuk mengikuti update keamanan Hoyoprotect.
 
-Security & Reliability:
+Keamanan dan Keandalan:
 
-Minimal system footprint to avoid any traceable detection.
+Didesain untuk meminimalkan jejak (footprint) pada sistem.
 
-No leftover files or active services after execution.
+Tidak meninggalkan file atau service aktif yang dapat memicu deteksi.
 
-Built-in anti-detection mechanisms running in real time.
+Mekanisme anti-detection aktif selama runtime.
 
-Testing Results:
+Hasil Pengujian:
 
-Testing duration: ~3 months with zero detections reported.
+Durasi uji coba: ± 3 bulan tanpa satu pun kasus deteksi.
 
-Test environments: ASIA, AMERICA, EUROPE, TWHK servers.
+Lingkungan pengujian: Server ASIA, AMERICA, EUROPE, TWHK.
 
-Status: 100% safe and stable throughout all test sessions.
+Status: 100% aman dan stabil pada semua pengujian.
+
