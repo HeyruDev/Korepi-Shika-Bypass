@@ -1,3 +1,5 @@
+# This Tools Not 100% Safe, its give you more time to delayed Banned, Because the dll they use is detected by hoyo and being reported
+
 Shika–Korepi Bypass – Advanced High-Kernel Hoyoprotect Bypass
 
 The Shika–Korepi Bypass is an advanced, high-kernel-level bypass solution specifically engineered to defeat Hoyoprotect security with unmatched stability and safety.
